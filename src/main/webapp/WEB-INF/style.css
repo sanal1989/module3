@@ -1,0 +1,9 @@
+.maindiv{
+    margin: 10px;
+    text-align: center;
+    top: 50%;
+}
+.divbottom{
+    top: 90%;
+    left:10px;
+}
